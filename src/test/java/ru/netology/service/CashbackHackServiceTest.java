@@ -8,7 +8,7 @@ public class CashbackHackServiceTest {
 
     CashbackHackService service = new CashbackHackService();
 
-    //Падающий тест
+    // Падающий тест
     /*@Test
 
     public void shouldRemainZero() {
